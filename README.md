@@ -1,1 +1,1 @@
-# macOS-Bangla-Keyboard
+# Bangla Jatiyo Layout for macOS
